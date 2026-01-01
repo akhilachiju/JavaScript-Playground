@@ -22,6 +22,7 @@ This project is beginner-friendly and helps understand basic DOM manipulation an
 ---
 
 ## Project Structure
+```bash
 1_counter-app/
 │
 ├── index.html
