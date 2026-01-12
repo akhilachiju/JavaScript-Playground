@@ -4,7 +4,7 @@ A simple counter application built using
 **HTML**, **JavaScript**, and **Tailwind CSS**.  
 This project is beginner-friendly and helps understand basic DOM manipulation and event handling in JavaScript.
 
----
+--
 
 ## Features
 - Increase the counter value
@@ -12,14 +12,14 @@ This project is beginner-friendly and helps understand basic DOM manipulation an
 - Reset the counter to zero
 - Clean and responsive UI using Tailwind CSS
 
----
+--
 
 ## Technologies Used
 - HTML
 - JavaScript
 - Tailwind CSS (via CDN)
 
----
+--
 
 ## Project Structure
 ```bash
